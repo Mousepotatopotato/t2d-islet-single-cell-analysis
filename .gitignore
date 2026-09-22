@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Data files
+data/
+
+# External/reference repositories
+reference/
+
+# Local environments
+.venv/
+venv/
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary outputs
+*.log
